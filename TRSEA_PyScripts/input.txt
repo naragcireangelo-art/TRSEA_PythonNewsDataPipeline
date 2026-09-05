@@ -1,0 +1,162 @@
+Target Country: Philippines
+
+==================================================
+FETCHING FEED: https://currentph.com/feed/
+==================================================
+Channel Title: Current Ph
+
+HEADLINE: Digital Front Doors: When Government Is Online but Public Service Is Still Hard to Find
+LINK:     https://currentph.com/2026/09/02/digital-front-doors-when-government-is-online-but-public-service-is-still-hard-to-find/
+PUBLISHED: Wed, 02 Sep 2026 02:10:19 +0000
+TEASER:   As a resident of Manila, I have learned that dealing with local government increasingly begins not at City Hall, but on a screen. We search for requirements before leaving home. We look for tax information, permits, civil registry procedures, social assistance, ordinances, or a place to file a complaint. The official website has become, in […]
+LEAD STMT: Could not scrape article body: 403 Client Error: Forbidden for url: https://currentph.com/2026/09/02/digital-front-doors-when-government-is-online-but-public-service-is-still-hard-to-find/
+--------------------------------------------------
+
+HEADLINE: Corruption’s High Tide: Why Floods Keep Drowning Filipinos
+LINK:     https://currentph.com/2026/09/02/corruptions-high-tide-why-floods-keep-drowning-filipinos/
+PUBLISHED: Wed, 02 Sep 2026 02:05:32 +0000
+TEASER:   In the wake of Nepal’s recent flash floods, which have displaced thousands and exposed the fragility of its disaster management systems, the Philippines has likewise been engulfed by floodwaters in recent weeks, with the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) issuing flood watches across major river basins. These inundations, driven by typhoons and […]
+LEAD STMT: Could not scrape article body: 403 Client Error: Forbidden for url: https://currentph.com/2026/09/02/corruptions-high-tide-why-floods-keep-drowning-filipinos/
+--------------------------------------------------
+
+HEADLINE: NORTHBOUND BUS TRIPS DIVERTED VIA NUEVA ECIJA DUE TO HEAVY NLEX TRAFFIC
+LINK:     https://currentph.com/2026/09/01/northbound-bus-trips-diverted-via-nueva-ecija-due-to-heavy-nlex-traffic/
+PUBLISHED: Tue, 01 Sep 2026 08:13:24 +0000
+TEASER:   Advisory 8:23am: For the safety of everyone, our northbound buses are currently being diverted away from the NLEX viaduct, following instructions from NLEX traffic authorities due to the heavy volume of vehicles in the area. As a result, ALL our northbound trips will temporarily pass through the Nueva Ecija corridor, resulting in significantly longer travel […]
+LEAD STMT: Could not scrape article body: 403 Client Error: Forbidden for url: https://currentph.com/2026/09/01/northbound-bus-trips-diverted-via-nueva-ecija-due-to-heavy-nlex-traffic/
+--------------------------------------------------
+
+HEADLINE: Is Criticizing 107 Billion Pesos in Flood Control in the 2027 Budget Now “Chinese Influence”?
+LINK:     https://currentph.com/2026/08/30/is-criticizing-107-billion-pesos-in-flood-control-in-the-2027-budget-now-chinese-influence/
+PUBLISHED: Sun, 30 Aug 2026 01:59:16 +0000
+TEASER:   There is an important question that the Armed Forces of the Philippines—and, frankly, the entire Philippine government—needs to answer. When the AFP warns that foreign malign influence operations are exploiting domestic controversies such as the impeachment of Vice President Sara Duterte and the flood-control scandal, exactly where does legitimate Filipino criticism end and foreign influence […]
+LEAD STMT: Could not scrape article body: 403 Client Error: Forbidden for url: https://currentph.com/2026/08/30/is-criticizing-107-billion-pesos-in-flood-control-in-the-2027-budget-now-chinese-influence/
+--------------------------------------------------
+
+HEADLINE: VP Sara Duterte impeachment trial I Day 19
+LINK:     https://currentph.com/2026/08/27/vp-sara-duterte-impeachment-trial-i-day-19/
+PUBLISHED: Wed, 26 Aug 2026 20:24:43 +0000
+TEASER:   Watch the live proceedings and latest developments surrounding the impeachment case of Philippine Vice President Sara Duterte. This livestream covers the Senate hearings, presentations of evidence, arguments from both sides, motions, rulings, and other significant developments as the trial unfolds. Stay with us for real-time updates, key moments, and important statements from the proceedings. #SaraDuterte […]
+LEAD STMT: Could not scrape article body: 403 Client Error: Forbidden for url: https://currentph.com/2026/08/27/vp-sara-duterte-impeachment-trial-i-day-19/
+--------------------------------------------------
+
+==================================================
+FETCHING FEED: https://www.philstar.com/rss/headlines
+==================================================
+Channel Title: philstar.com - RSS Headlines
+
+HEADLINE: Leptospirosis cases reach 6,253; DOH warns of post-flood surge
+LINK:     https://www.philstar.com/headlines/2026/09/04/2553874/leptospirosis-cases-reach-6253-doh-warns-post-flood-surge
+PUBLISHED: Fri, 4 Sep 2026 00:00:00 +0800
+TEASER:   Leptospirosis cases in the country have reached 6,253 from Jan. 4 to Aug. 29, the Department of Health (DOH) said yesterday, warning that infections may surge as another wave of cases could be experienced in two weeks due to the disease’s incubation period.
+LEAD STMT: MANILA, Philippines — Leptospirosis cases in the country have reached 6,253 from Jan. 4 to Aug. 29, the Department of Health (DOH) said yesterday, warning that infections may surge as another wave of cases could be experienced in two weeks due to the disease’s incubation period.
+--------------------------------------------------
+
+HEADLINE: Local execs vow proper use of P58.32- billion LGSF
+LINK:     https://www.philstar.com/headlines/2026/09/04/2553876/local-execs-vow-proper-use-p5832-billion-lgsf
+PUBLISHED: Fri, 4 Sep 2026 00:00:00 +0800
+TEASER:   Learning a hard lesson from massive anomalies in the flood control scandal, the League of Municipalities in the Philippines gave assurances that the government’s record high P58.32-billion budget for local government units in 2027 will be used properly.
+LEAD STMT: MANILA, Philippines — Learning a hard lesson from massive anomalies in the flood control scandal, the League of Municipalities in the Philippines gave assurances that the government’s record high P58.32-billion budget for local government units in 2027 will be used properly.
+--------------------------------------------------
+
+HEADLINE: Lacson, Cayetano trade barbs anew
+LINK:     https://www.philstar.com/headlines/2026/09/04/2553879/lacson-cayetano-trade-barbs-anew
+PUBLISHED: Fri, 4 Sep 2026 00:00:00 +0800
+TEASER:   Senators Panfilo Lacson and Alan Peter Cayetano renewed their trading of barbs over allegations of anomalous flood control and land reclamation projects in Taguig, Cayetano’s bailiwick.
+LEAD STMT: MANILA, Philippines —  Senators Panfilo Lacson and Alan Peter Cayetano renewed their trading of barbs over allegations of anomalous flood control and land reclamation projects in Taguig, Cayetano’s bailiwick.
+--------------------------------------------------
+
+HEADLINE: SWS: 33% of Pinoys say quality of life improved
+LINK:     https://www.philstar.com/headlines/2026/09/04/2553880/sws-33-pinoys-say-quality-life-improved
+PUBLISHED: Fri, 4 Sep 2026 00:00:00 +0800
+TEASER:   One in every three Filipinos reported experiencing better quality of life in the past 12 months, an improvement compared to data from the first quarter of the year, according to the latest survey by Social Weather Station.
+LEAD STMT: MANILA, Philippines —  One in every three Filipinos reported experiencing better quality of life in the past 12 months, an improvement compared to data from the first quarter of the year, according to the latest survey by Social Weather Stations (SWS).
+--------------------------------------------------
+
+HEADLINE: DBM OKs P8.68 billion for teachers’ pay raise
+LINK:     https://www.philstar.com/headlines/2026/09/04/2553881/dbm-oks-p868-billion-teachers-pay-raise
+PUBLISHED: Fri, 4 Sep 2026 00:00:00 +0800
+TEASER:   Salary upgrades for 93,344 public school personnel are underway after the Department of Budget and Management (DBM) approved the release of an additional P8.68 billion to the Department of Education.
+LEAD STMT: MANILA, Philippines — Salary upgrades for 93,344 public school personnel are underway after the Department of Budget and Management (DBM) approved the release of an additional P8.68 billion to the Department of Education (DepEd).
+--------------------------------------------------
+
+==================================================
+FETCHING FEED: https://data.gmanews.tv/gno/rss/news/feed.xml
+==================================================
+Channel Title: GMA News Online / News
+
+HEADLINE: Thailand school shooting toll rises to nine after death of 12-year-old girl
+LINK:     https://www.gmanetwork.com/news/topstories/world/997859/thailand-school-shooting-toll-rises-to-nine-after-death-of-12-year-old-girl/story/
+PUBLISHED: Sat, 08 Aug 2026 23:59:15 +0800
+TEASER:   BANGKOK - The death toll from a school shooting in Thailand rose to nine on Saturday, after police said a 12-year-old girl caught up in Friday's incident had died.
+LEAD STMT: BANGKOK - The death toll from a school shooting in Thailand rose to nine on Saturday, after police said a 12-year-old girl caught up in Friday's incident had died.
+--------------------------------------------------
+
+HEADLINE: Prompt, fair case resolution builds public trust -- Chief Justice Gesmundo
+LINK:     https://www.gmanetwork.com/news/topstories/nation/997856/prompt-fair-case-resolution-builds-public-trust-chief-justice-gesmundo/story/
+PUBLISHED: Sat, 08 Aug 2026 22:46:24 +0800
+TEASER:   Supreme Court Chief Justice Alexander Gesmundo on Saturday stressed the importance of resolving cases fairly and promptly, saying the efficient administration of justice is crucial to maintaining public confidence in the judiciary.
+LEAD STMT: Supreme Court Chief Justice Alexander Gesmundo on Saturday stressed the importance of resolving cases fairly and promptly, saying the efficient administration of justice is crucial to maintaining public confidence in the judiciary.
+--------------------------------------------------
+
+HEADLINE: Iba't ibang bahagi ng bansa, binaha dahil sa ulan na dulot ng Habagat
+LINK:     https://www.gmanetwork.com/news/balitambayan/content/997853/iba-t-ibang-bahagi-ng-bansa-binaha-dahil-sa-ulan-na-dulot-ng-habagat/story/
+PUBLISHED: Sat, 08 Aug 2026 22:31:33 +0800
+TEASER:   Nakaranas ng malalakas na pag-ulan ang malaking bahagi ng bansa dulot ng Habagat, na nagdulot ng pagbaha sa ilang bahagi ng Metro Manila at iba pang lugar sa Luzon.
+LEAD STMT: Nakaranas ng malalakas na pag-ulan ang malaking bahagi ng bansa dulot ng Habagat, na nagdulot ng pagbaha sa ilang bahagi ng Metro Manila at iba pang lugar sa Luzon.
+--------------------------------------------------
+
+HEADLINE: Reticulated python, namataan sa mga stuffed toy sa ukayan sa Dumaguete
+LINK:     https://www.gmanetwork.com/news/balitambayan/promdi/997851/reticulated-python-namataan-sa-mga-stuffed-toy-sa-ukayan-sa-dumaguete/story/
+PUBLISHED: Sat, 08 Aug 2026 22:10:51 +0800
+TEASER:   Nasagip ang isang reticulated python o sawa na natagpuang nakahalo sa mga stuffed toy sa isang ukayan sa Dumaguete.
+LEAD STMT: Nasagip ang isang reticulated python o sawa na natagpuang nakahalo sa mga stuffed toy sa isang ukayan sa Dumaguete.
+--------------------------------------------------
+
+HEADLINE: 3 sa 5 Chinese na sangkot sa tangkang pagdukot sa kapwa Chinese at paghingi ng mahigit P60M ransom, huli
+LINK:     https://www.gmanetwork.com/news/balitambayan/promdi/997850/3-sa-5-chinese-na-sangkot-sa-tangkang-pagdukot-sa-kapwa-chinese-at-paghingi-ng-mahigit-p60m-ranso/story/
+PUBLISHED: Sat, 08 Aug 2026 22:01:40 +0800
+TEASER:   Arestado ang tatlo sa limang Chinese dahil sa tangkang pagdukot sa kapwa nila Chinese at panghihingi ng mahigit P60 milyon ransom sa Angeles, Pampanga.
+LEAD STMT: Arestado ang tatlo sa limang Chinese dahil sa tangkang pagdukot sa kapwa nila Chinese at panghihingi ng mahigit P60 milyon ransom sa Angeles, Pampanga.
+--------------------------------------------------
+
+==================================================
+FETCHING FEED: https://www.inquirer.net/fullfeed
+==================================================
+Channel Title: INQUIRER.net
+
+HEADLINE: Mayors, treasurers form strongest corruption link
+LINK:     https://newsinfo.inquirer.net/2298425/mayors-treasurers-form-strongest-corruption-link
+PUBLISHED: Thu, 03 Sep 2026 16:25:12 +0800
+TEASER:   MANILA, Philippines — The officials most frequently connected in corruption cases are not two politicians working together, but an elected official and a bureaucrat whose position provides access to the government’s finances. This was pointed out by Dr. Alicor Panao, a data scientist for the Inquirer and an associate professor at the University of the Philippines, in a network analysis of more than 1,800 public officials involved in over 400 cases before the Sandiganbayan from 2016 to 2025. Panao explained that corruption is often imagined as a deal between politicians, with one elected official helping another divert public resources and steer […]...Keep on reading: Mayors, treasurers form strongest corruption link
+LEAD STMT: Could not scrape article body: 403 Client Error: Forbidden for url: https://newsinfo.inquirer.net/2298425/mayors-treasurers-form-strongest-corruption-link
+--------------------------------------------------
+
+HEADLINE: Haze triggers poor air quality in Northern Mindanao
+LINK:     https://newsinfo.inquirer.net/2298414/haze-triggers-poor-air-quality-in-northern-mindanao
+PUBLISHED: Thu, 03 Sep 2026 16:24:50 +0800
+TEASER:   CAGAYAN DE ORO CITY — Environment and health agencies in Region 10 have warned the public that prolonged exposure to haze and fine particulate matter (PM) poses health risks, particularly for people with respiratory and cardiovascular conditions and those who spend extended periods outdoors. The Environmental Management Bureau-Region 10 (EMB-10) urged vulnerable groups in Northern Mindanao to take precautions after it recorded elevated PM2.5 levels in several monitoring stations across the region. The bureau particularly reminded children, older persons, pregnant individuals, and people with existing respiratory or cardiovascular conditions to stay vigilant, as exposure to fine particulate matter may pose greater […]...Keep on reading: Haze triggers poor air quality in Northern Mindanao
+LEAD STMT: Could not scrape article body: 403 Client Error: Forbidden for url: https://newsinfo.inquirer.net/2298414/haze-triggers-poor-air-quality-in-northern-mindanao
+--------------------------------------------------
+
+HEADLINE: Disney star Carla Jeffery dies at 33
+LINK:     https://entertainment.inquirer.net/682626/disney-star-carla-jeffery-dies-at-33
+PUBLISHED: Thu, 03 Sep 2026 16:22:36 +0800
+TEASER:   American actress Carla Jeffery, best known for portraying cheerleader Bree in Disney’s “Zombies” film franchise, passed away on Tuesday, Sept. 1. She was 33. Jeffery’s death was confirmed by her management company, Alexanders Talent Management, through a statement shared on the actress’ Instagram page on Thursday, Sept. 3. “It is with profound sadness that we share the passing of our beloved Carla Jeffery, who passed away on September 1, 2026, at just 33 years old,” it said. “For more than 20 years, we had the privilege of watching her grow into a beautiful, vibrant, and incredibly talented woman whose radiant smile […]...Keep on reading: Disney star Carla Jeffery dies at 33
+LEAD STMT: By providing an email address. I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.
+--------------------------------------------------
+
+HEADLINE: 2 motorcycles collide at CSCR: 4-year-old child, 4 others slightly hurt
+LINK:     https://cebudailynews.inquirer.net/763504/2-motorcycles-collide-at-cscr-4-year-old-child-4-others-slightly-hurt
+PUBLISHED: Thu, 03 Sep 2026 16:15:16 +0800
+TEASER:   CEBU CITY, Philippines — A family outing turned into a nightmare for the grandparents and their 6-month-old and 4-year-old grandchildren when their motorcycle collided with another motorcycle along the Cebu South Coastal Road near the San Isidro Bridge in Barangay Lawaan 2, Talisay City. This happened at past 8:00 a.m. today, September 3, 2026. According to medical emergency responders, the grandparents and the 4-year-old child suffered cuts and bruises. The 6-month-old child was not hurt in the crash. The other motorcycle rider, a 41-year-old man was also slightly injured. READ: 19-year-old motorcycle rider killed in road crash in Medellin, Cebu All […]...Keep on reading: 2 motorcycles collide at CSCR: 4-year-old child, 4 others slightly hurt
+LEAD STMT: CEBU CITY, Philippines — A family outing turned into a nightmare for the grandparents and their 6-month-old and 4-year-old grandchildren when their motorcycle collided with another motorcycle along the Cebu South Coastal Road near the San Isidro Bridge in Barangay Lawaan 2, Talisay City.
+--------------------------------------------------
+
+HEADLINE: No bodies found in SUV that plunged off broken Tarlac bridge
+LINK:     https://newsinfo.inquirer.net/2298407/no-bodies-found-in-suv-that-plunged-off-broken-tarlac-bridge
+PUBLISHED: Thu, 03 Sep 2026 15:59:55 +0800
+TEASER:   TARLAC CITY — The sports utility vehicle that plunged into the river when the Agana Bridge collapsed on August 29 was pulled from the Tarlac River at 7 p.m. on Wednesday.  Tarlac City Mayor Susan Yap said no bodies were found in the SUV, which was tracked down when people spotted its tire sticking out about 2 kilometers from the bridge as the waters began to recede.  READ: Tire in river leads to SUV that plunged off Tarlac bridge Rescuers are still searching for Paul Harvey Collado, nurse supervisor of the Jecsons Medical Center, and Shiela Mae Taborlupa, who were among […]...Keep on reading: No bodies found in SUV that plunged off broken Tarlac bridge
+LEAD STMT: Could not scrape article body: 403 Client Error: Forbidden for url: https://newsinfo.inquirer.net/2298407/no-bodies-found-in-suv-that-plunged-off-broken-tarlac-bridge
+--------------------------------------------------
+
