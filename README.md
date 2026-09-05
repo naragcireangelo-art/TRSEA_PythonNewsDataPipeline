@@ -108,11 +108,11 @@ Register all five models (re-run any of these whenever its `.Modelfile`
 changes — editing the file does **nothing** until you do this):
 
 ```
-ollama create geo-filter      -f 01-geo-filter.Modelfile
-ollama create category-tag    -f 02-category-tag.Modelfile
-ollama create group-only      -f 03a-group.Modelfile
-ollama create summarize-only  -f 03b-summarize.Modelfile
-ollama create connect-or-create -f 04-connect-or-create.Modelfile
+ollama create geo-filter      -f geo-filter.md
+ollama create category-tag    -f category-tag.md
+ollama create group-only      -f group.md
+ollama create summarize-only  -f summarize.md
+ollama create connect-or-create -f connect-or-create.md
 ```
 
 Run the always-on loop:
@@ -212,3 +212,16 @@ under memory pressure when tried without measuring first.
   "crashed."** Staging logs (stderr, timestamped, one line per batch and
   per stage) exist specifically because a long CPU-bound run with zero
   output is indistinguishable from a hang otherwise.
+
+## Dev notes:
+- This is the first part of a large project; The pipeline is not optimized as the use of 
+  ai agents per cycle on a cpu only device, make it slow. The next step once the whole
+  project is finished is the review and revisions of the data ingestion pipeline.
+  
+- This is also the first python ai project I made through agentic development. Utilizing
+  gemini pro and claude's Sonnet 5 medium.
+
+- Technologies TBADDED:
+        Facebook AI Similarity Search (FAISS) an open-source library built by Meta AI for fast similarity
+        search and clustering of dense vectors. This makes it so that the initial and final grouping can
+        rid of the ai agent's long process time.
